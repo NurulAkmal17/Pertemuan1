@@ -7,4 +7,3 @@ Contoh komentar multi baris
     /**
      * Kotlin Doc --> baris ini untuk mendokumentasikan kode program
      */
-}
