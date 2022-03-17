@@ -1,4 +1,4 @@
-//sebuah fungsi readLine()!!. Secara default perintah masukkan di Kotlin akan mengembalikan nilai String ke dalam variabel penampung.
+// sebuah fungsi readLine()!!. Secara default perintah masukkan di Kotlin akan mengembalikan nilai String ke dalam variabel penampung.
 fun main(args: Array<String>) {
 
     //Doubler program parsing
