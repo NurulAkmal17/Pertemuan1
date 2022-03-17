@@ -10,7 +10,7 @@ fun main(args: Array<String>) {
     println(s + "def")
 
     //Raw String
-    //Untuk dapat menyimpan data String yang memuat keywords Kotlin bisa dengan menggunakan raw String yang dipisahkan dengan triple quotes (""").
+    //Untuk dapat menyimpan data String yang memuat keywords Kotlin. bisa dengan menggunakan raw String yang dipisahkan dengan triple quotes (""").
     var texts = """
     for (c in "foo")
         print(c)
