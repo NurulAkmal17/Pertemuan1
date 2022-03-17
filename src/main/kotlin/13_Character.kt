@@ -2,7 +2,7 @@
 //Karakter di Kotlin tidak bisa diperlakukan secara langsung sebagai Number.
 fun main(args: Array<String>) {
     var charA : Char = 'A'
-//println(charA == 65)
+//println(charA == 65).
     println(charA.isUpperCase())
     println(charA.isLowerCase())
     println(charA.isDigit())
