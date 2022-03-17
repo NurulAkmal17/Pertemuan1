@@ -1,4 +1,4 @@
-//mengenkripsi sebuah input text String yang diberikan kedalam karakter yang dinaikan atau diturunkan.
+// mengenkripsi sebuah input text String yang diberikan kedalam karakter yang dinaikan atau diturunkan.
 fun main(args: Array<String>) {
 //The Caesar cipher
 // variable initialization
