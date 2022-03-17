@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-    val floatLiteral : Float = 178.95F //Literal Float
+    val floatLiteral : Float = 178.95F //Literal Float.
     println("Contoh Literal Float : " + floatLiteral)
     val oneBillion: Long = 1000000000L //Literal Long
     println("Contoh Literal Long : " + oneBillion)
