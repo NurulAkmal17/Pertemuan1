@@ -1,4 +1,4 @@
-//Template ekspresi String diawali dengan tanda dolar ($) diikuti oleh nama variabel yang akan digabungkan kedalam suatu String.
+//Template ekspresi String diawali dengan tanda dolar ($). diikuti oleh nama variabel yang akan digabungkan kedalam suatu String.
 fun main(args: Array<String>) {
     val a = 7
     val b = 8
