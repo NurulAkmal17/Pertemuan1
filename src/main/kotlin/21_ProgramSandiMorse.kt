@@ -2,7 +2,7 @@
 fun main(args: Array<String>) {
 // split() and joinToString()
 // Morse code decoder
-// the string which we want to decode
+// the string which we want to decode.
     val s = ".. -.-. - ... --- -.-. .. .- .-.."
     println("The original message: $s")
 // the string with the decoded message
